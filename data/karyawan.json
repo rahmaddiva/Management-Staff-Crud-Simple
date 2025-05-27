@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "nama": "Rahmad diva",
+        "jabatan": "Sekretaris",
+        "departemen": "Manajemen Aset",
+        "gaji": "4000000",
+        "tanggal_masuk": "2025-05-26"
+    },
+    {
+        "id": "2",
+        "nama": "Erni Wati",
+        "jabatan": "Staff Finance",
+        "departemen": "Finance",
+        "gaji": "5000000",
+        "tanggal_masuk": "2025-05-30"
+    }
+]
